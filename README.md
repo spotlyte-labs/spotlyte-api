@@ -7,8 +7,8 @@ The Spotlyte API enables brands and organizations to access user generated and s
 Spotlyte is a REST based API 
 
 # Usage
-1.  Login to your Account to obtain your Application secret key
-2.  In all Spotlyte API calls include your application key
+1.  Login to your [Spotlyte](https://www.getspotlyte.com) account to obtain your Application client and secret key
+2.  In all Spotlyte API calls include key as parameter
 
 # Availability
 Coming Soon
